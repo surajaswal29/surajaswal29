@@ -1,5 +1,5 @@
 <h2>About Me</h2>
-I am a passionate learner and MERN Stack and PHP Developer. I love working with React, JavaScript, Node.js, PHP. I truly believe that learning never stops.
+I am a passionate learner and MERN Stack and PHP Developer. I love working with React, JavaScript, Node.js, PHP. I believe that the pursuit of knowledge is a lifelong journey, and I am always eager to explore new concepts, frameworks, and methodologies.
 
 </br>
 </br>
