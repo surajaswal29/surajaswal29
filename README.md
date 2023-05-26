@@ -2,11 +2,11 @@
 
 I am a passionate learner and MERN Stack and PHP Developer. I love working with React, JavaScript, Node.js, PHP. I believe that the pursuit of knowledge is a lifelong journey, and I am always eager to explore new concepts, frameworks, and methodologies. Feel free to browse through my projects and contributions below.
 
-## Projects
+<!-- ## Projects
 
 - [Project 1](link-to-project-1) - Short description of project 1.
 - [Project 2](link-to-project-2) - Short description of project 2.
-- [Project 3](link-to-project-3) - Short description of project 3.
+- [Project 3](link-to-project-3) - Short description of project 3. -->
 
 ## Skills
 
