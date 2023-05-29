@@ -1,6 +1,8 @@
 ### Hi there, I'm Suraj Aswal 👋
 
-I am a passionate learner and MERN Stack and PHP Developer. I love working with React, JavaScript, Node.js, PHP. I believe that the pursuit of knowledge is a lifelong journey, and I am always eager to explore new concepts, frameworks, and methodologies. Feel free to browse through my projects and contributions below.
+I am a dedicated and enthusiastic learner specializing in MERN Stack and PHP development. With a deep passion for working with React, JavaScript, Node.js, and PHP, I continuously strive to expand my knowledge and expertise in these technologies.
+
+I firmly believe that the pursuit of knowledge is an ongoing journey, and I approach it with unwavering enthusiasm. I am constantly driven to explore new concepts, frameworks, and methodologies to enhance my skill set and stay at the forefront of industry advancements.
 
 <!-- ## Projects
 
