@@ -14,7 +14,7 @@ Always learning. Always building. Always leveling up. 🚀
 ---
 
 ### 🛠️ Skills
-**Languages:** JavaScript, PHP, Rust (beginner)  
+**Languages:** JavaScript, PHP, Python, Rust (beginner)  
 **Front-end:** React, Next.js, HTML, CSS  
 **Back-end:** Node.js, Express, NestJS, PHP  
 **Databases:** MongoDB, MySQL  
