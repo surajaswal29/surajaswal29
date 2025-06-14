@@ -1,29 +1,29 @@
-### Hi there, I'm Suraj Aswal 👋
+### 👋 Hi there, I'm Suraj Aswal
 
-I am a dedicated and enthusiastic learner specializing in MERN Stack and PHP development. With a deep passion for working with React, JavaScript, Node.js, and PHP, I continuously strive to expand my knowledge and expertise in these technologies.
+Hey! I'm a curious and driven developer passionate about building modern web applications using the **MERN Stack**, **Next.js**, **NestJS**, and **PHP**. I enjoy working with **React**, **JavaScript**, and **Node.js**, and love diving deep into the full stack to bring ideas to life.
 
-I firmly believe that the pursuit of knowledge is an ongoing journey, and I approach it with unwavering enthusiasm. I am constantly driven to explore new concepts, frameworks, and methodologies to enhance my skill set and stay at the forefront of industry advancements.
+Lately, I’ve been working on projects that integrate powerful **AI/ML models** like **OpenAI’s GPT**, **Google Gemini**, and **Vertex AI**—using them to enhance user experiences, automate workflows, and solve real-world problems with intelligent solutions.
 
-<!-- ## Projects
+I'm also exploring the world of **IoT** (just getting started!) and getting my hands dirty with **Rust**—a language that’s caught my attention for its performance and system-level control.
 
-- [Project 1](link-to-project-1) - Short description of project 1.
-- [Project 2](link-to-project-2) - Short description of project 2.
-- [Project 3](link-to-project-3) - Short description of project 3. -->
+Always learning. Always building. Always leveling up. 🚀
 
-## Skills
+> 💡 *"In this world, there is nothing as purifying as knowledge."*  
+> — *BG 4.38*
 
-- **Languages:** JavaScript, PHP
-- **Front-end:** React, HTML, CSS
-- **Back-end:** Node.js, Express, PHP
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, VS Code, Postman
+---
 
-## Get in Touch
+### 🛠️ Skills
+**Languages:** JavaScript, PHP, Rust (beginner)  
+**Front-end:** React, Next.js, HTML, CSS  
+**Back-end:** Node.js, Express, NestJS, PHP  
+**Databases:** MongoDB, MySQL  
+**Currently Learning:** IoT, Rust
 
-I'm always interested in connecting with fellow developers, sharing knowledge, and collaborating on exciting projects. Feel free to reach out to me through the following channels:
+---
 
-- **Email:** [thesurajaswal@gmail.com](mailto:thesurajaswal@gmail.com)
-- **LinkedIn:** [Suraj Aswal](https://www.linkedin.com/in/suraj-aswal-31350b266)
+### 📫 Get in Touch
+📧 Email: [thesurajaswal@gmail.com](mailto:thesurajaswal@gmail.com)  
+🔗 LinkedIn: [Suraj Aswal](https://www.linkedin.com/in/surajaswal/)
 
-Let's connect and build something awesome together!
-
+Let’s connect and build something awesome together!
