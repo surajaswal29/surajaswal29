@@ -4,7 +4,7 @@ Hey! I'm a curious and driven developer passionate about building modern web app
 
 Lately, I’ve been working on projects that integrate powerful **AI/ML models** like **OpenAI’s GPT**, **Google Gemini**, and **Vertex AI** agentic AI, LangChain, and LangGraph to improve workflows and build smarter tools and using them to enhance user experiences, automate workflows, and solve real-world problems with intelligent solutions.
 
-I'm also exploring the world of **IoT** (just getting started!) and Agentic AI and getting my hands dirty with **Rust** a language that’s caught my attention for its performance and system-level control.
+I'm also learning actively System Design & exploring the world of **IoT** (just getting started!) and Agentic AI and getting my hands dirty with **Rust** a language that’s caught my attention for its performance and system-level control.
 
 Always learning. Always building. Always leveling up. 🚀
 
@@ -18,7 +18,7 @@ Always learning. Always building. Always leveling up. 🚀
 **Front-end:** React, Next.js, HTML, CSS  
 **Back-end:** Node.js, Express, NestJS, PHP  
 **Databases:** MongoDB, MySQL  
-**Currently Learning:** IoT, Rust
+**Currently Learning:** IoT, Rust, System Design
 
 ---
 
