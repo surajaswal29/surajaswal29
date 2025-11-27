@@ -33,6 +33,10 @@ I’ve also been learning more about **system design** and improving how I plan 
 #### **Mobile Development**
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
 
+#### **Desktop Development**
+![Tauri](https://img.shields.io/badge/Tauri-F7DF1E?logo=tauri&logoColor=000)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)
+
 #### **Back-end**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff)
