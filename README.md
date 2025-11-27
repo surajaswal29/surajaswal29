@@ -1,10 +1,10 @@
 ### 👋 Hi there, I'm Suraj Aswal
 
-Hey! I'm a curious and driven developer passionate about building modern web applications using the **MERN Stack**, **Next.js**, **NestJS**, and **PHP**. I enjoy working with **React**, **JavaScript**, and **Node.js**, and love diving deep into the full stack to bring ideas to life.
+Hey! I'm a curious and driven developer who loves building modern web apps with the **MERN stack**, **Next.js**, **NestJS**, and even **PHP** when it makes sense. I enjoy working with **React**, **JavaScript**, and **Node.js**, and I genuinely like digging into the full stack to bring ideas to life.
 
-Lately, I’ve been working on projects that integrate powerful **AI/ML models** like **OpenAI’s GPT**, **Google Gemini**, and **Vertex AI** agentic AI, LangChain, and LangGraph to improve workflows and build smarter tools and using them to enhance user experiences, automate workflows, and solve real-world problems with intelligent solutions.
+Recently, I’ve been working on projects powered by **AI/ML models** like **GPT**, **Gemini**, **Vertex AI**, plus frameworks like **LangChain** and **LangGraph** to build smarter tools, automate stuff, and solve real-world problems with AI. I’m also getting deeper into **RAG**, **Agentic AI**, and experimenting with ways to combine them into real products.
 
-I'm also learning actively System Design & exploring the world of **IoT** (just getting started!) and Agentic AI and getting my hands dirty with **Rust** a language that’s caught my attention for its performance and system-level control.
+I’m actively learning **System Design**, starting my journey in **IoT**, and exploring **Rust** to expand my system-level understanding.
 
 Always learning. Always building. Always leveling up. 🚀
 
@@ -14,16 +14,16 @@ Always learning. Always building. Always leveling up. 🚀
 ---
 
 ### 🛠️ Skills
-**Languages:** JavaScript, PHP, Python, Rust (beginner)  
-**Front-end:** React, Next.js, HTML, CSS  
-**Back-end:** Node.js, Express, NestJS, PHP  
-**Databases:** MongoDB, MySQL  
-**Currently Learning:** IoT, Rust, System Design
+**Languages:** JavaScript, PHP, Python, Java, C++, Rust (beginner)  
+**Front-end:** React, Next.js  
+**Back-end:** Node.js, Express, NestJS, PHP, Python (FastAPI)  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Currently Learning:** IoT, Rust, System Design, RAG, Agentic AI
 
 ---
 
-### 📫 Get in Touch
-📧 Email: [thesurajaswal@gmail.com](mailto:thesurajaswal@gmail.com)  
-🔗 LinkedIn: [Suraj Aswal](https://www.linkedin.com/in/surajaswal/)
+### 📫 Get in Touch  
+📧 Email: **thesurajaswal@gmail.com**  
+🗓️ Calendly: **https://calendly.com/suraj-ablespace**
 
-Let’s connect and build something awesome together!
+Let’s connect and build something awesome!
