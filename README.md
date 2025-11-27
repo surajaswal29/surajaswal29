@@ -6,7 +6,7 @@ Lately, I’ve been working on projects using **GPT**, **Gemini**, **Vertex AI**
 
 I really enjoy **planning and building custom flows**, **feature-focused logic**, and solving problems that need proper brainstorming. That whole problem-solving zone is honestly what keeps me hooked.
 
-I’ve also been learning more about **system design** and improving how I plan and structure projects — things like architecture, workflow design, optimization, and keeping the user experience smooth.
+I’ve also been learning more about **system design** and improving how I plan and structure projects things like architecture, workflow design, optimization, and keeping the user experience smooth.
 
 **Always learning. Always building. Always leveling up.**
 
