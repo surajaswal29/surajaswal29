@@ -15,48 +15,31 @@ I’ve also been learning more about **system design** and improving how I plan 
 
 ---
 
-### 🛠️ **Skills**
+### 🛠️ Skills
 
-#### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
+**Languages:**  
+![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=000) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
 
-#### **Front-end**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+**Front-end:**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 
-#### **Mobile Development**
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
+**Mobile:**  
+![RN](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
 
-#### **Desktop Development**
-![Tauri](https://img.shields.io/badge/Tauri-F7DF1E?logo=tauri&logoColor=000)
-![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)
+**Desktop:**  
+![Tauri](https://img.shields.io/badge/Tauri-F7DF1E?logo=tauri&logoColor=000) ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)
 
-#### **Back-end**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
+**Back-end:**  
+![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
 
-#### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+**Databases:**  
+![Mongo](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 
-#### **DevOps / Cloud Basics**
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![CI/CD](https://img.shields.io/badge/CI/CD-000?logo=githubactions&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=fff)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=fff)
+**DevOps / Cloud:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![CI/CD](https://img.shields.io/badge/CI%2FCD-000?logo=githubactions&logoColor=fff) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=fff) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=fff)
 
-#### **Other Skills**
-Architecture planning · Workflow design · Optimization · User experience thinking · AI Workflow (Gen AI + Agentic)
+**Other:**  
+Architecture planning · Workflow design · Optimization · UX thinking · AI Workflows (GenAI + Agentic)
 
 ---
 
