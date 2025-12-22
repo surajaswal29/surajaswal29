@@ -1,10 +1,10 @@
-### 👋 Hi there, I'm **Suraj Aswal**
+### Hi there, I'm **Suraj Aswal**
 
 Hey! I'm a curious and driven developer who enjoys building modern web apps with the **MERN stack**, **Next.js**, **NestJS**, and even **PHP** when it makes sense (you know… those *cheap hosting* moments 😂). I love working with **React**, **JavaScript**, and **Node.js**, and I like getting into the full stack to turn ideas into something real and useful.
 
-Lately, I’ve been working on projects using **GPT**, **Gemini**, **Vertex AI**, and tools like **LangChain** and **LangGraph** to build **smarter workflows**, **automate repetitive tasks**, and create **practical AI-driven solutions**. I’ve also been exploring **RAG** and **Agentic AI** to see how they fit into real-world systems.
+Lately, I’ve been working on projects using **GPT**, **Gemini**, **Vertex AI**, and tools like **LangChain** and **LangGraph** to build **smarter workflows**, **automate repetitive tasks**, and create **practical AI-driven solutions**. I’ve also been exploring **RAG** and **Agentic AI** to see how they fit into real world systems.
 
-I really enjoy **planning and building custom flows**, **feature-focused logic**, and solving problems that need proper brainstorming. That whole problem-solving zone is honestly what keeps me hooked.
+I really enjoy **planning and building custom flows**, **feature focused logic**, and solving problems that need proper brainstorming. That whole problem solving zone is honestly what keeps me hooked.
 
 I’ve also been learning more about **system design** and improving how I plan and structure projects things like architecture, workflow design, optimization, and keeping the user experience smooth.
 
@@ -15,7 +15,7 @@ I’ve also been learning more about **system design** and improving how I plan 
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 **Languages:**  
 ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=000) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
@@ -43,7 +43,7 @@ Architecture planning · Workflow design · Optimization · UX thinking · AI Wo
 
 ---
 
-### 🌱 **Occasional Learning**
+### **Occasional Learning**
 ![IoT](https://img.shields.io/badge/IoT-00B5AD?logo=azureiot&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)
@@ -52,9 +52,9 @@ Architecture planning · Workflow design · Optimization · UX thinking · AI Wo
 
 ---
 
-### 📫 **Get in Touch**
+### **Get in Touch**
 
-📧 Email: **thesurajaswal@gmail.com**  
-🗓️ Calendly: **https://calendly.com/suraj-ablespace**
+Email: **thesurajaswal@gmail.com**  
+Calendly: **[Click here to schedule a call](https://calendly.com/thesurajaswal)**
 
 Let’s connect and build something meaningful!
